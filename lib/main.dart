@@ -1,4 +1,4 @@
-import 'package:flutter/cupertino.dart';
+
 import 'package:flutter/material.dart';
 import 'package:xo_game/Information.dart';
 import 'package:xo_game/gameBoard.dart';
